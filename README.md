@@ -13,6 +13,7 @@ React, TypeScript, Java e arquitetura de software.
 
 
   <img 
+    width =  "50%"
     align="left" 
     alt="GitHub Stats" 
     height="200" 
@@ -21,7 +22,7 @@ React, TypeScript, Java e arquitetura de software.
   />
 
 <img 
-      width =  "100%"
+      width =  "50%"
       align="right" 
       alt="GitHub Stats" 
       height="200" 
