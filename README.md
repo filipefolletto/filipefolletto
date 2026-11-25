@@ -12,7 +12,7 @@ React, TypeScript, Java e arquitetura de software.
 ### 📊 Estatísticas
 
 <p>
-  width: 100vh;
+  width= "100vh"
   <img 
     align="left" 
     alt="GitHub Stats" 
