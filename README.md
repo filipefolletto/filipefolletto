@@ -12,6 +12,7 @@ React, TypeScript, Java e arquitetura de software.
 ### 📊 Estatísticas
 
 <p>
+  width = 100%;
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -30,6 +31,7 @@ React, TypeScript, Java e arquitetura de software.
 </p>
 
 <p>
+  
   ## 🛠️ Tecnologias
 
 ### Frontend
