@@ -29,10 +29,8 @@ React, TypeScript, Java e arquitetura de software.
 
 </p>
 
-
----
-
-## 🛠️ Tecnologias
+<p>
+  ## 🛠️ Tecnologias
 
 ### Frontend
 React | TypeScript | JavaScript | HTML | CSS
@@ -62,3 +60,7 @@ Git | GitHub | Docker | VS Code
 
 [LinkedIn](LINK_LINKEDIN)
 [Email](mailto:SEU_EMAIL)
+</p>
+
+
+
