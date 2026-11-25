@@ -9,19 +9,26 @@ Atualmente, estou aprofundando meus conhecimentos em
 React, TypeScript, Java e arquitetura de software.
 
 ---
+### 📊 Estatísticas
 
-## 🚀 Projetos em destaque
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-### 💰 Gerenciador Financeiro
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-Aplicação para controle de despesas e organização financeira.
+</p>
 
-- Frontend desenvolvido com React e TypeScript
-- API para gerenciamento de despesas
-- Banco de dados relacional
-- Autenticação e controle de usuários
-
-[Ver projeto](LINK_DO_REPOSITORIO)
 
 ---
 
