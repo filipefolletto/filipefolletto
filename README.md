@@ -14,6 +14,7 @@ React, TypeScript, Java e arquitetura de software.
 
   <img 
     width =  "50%"
+    aling = "left"
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
