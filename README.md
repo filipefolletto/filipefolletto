@@ -11,8 +11,7 @@ React, TypeScript, Java e arquitetura de software.
 ---
 ### 📊 Estatísticas
 
-<div>
- width= "100vh"
+
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -27,14 +26,14 @@ React, TypeScript, Java e arquitetura de software.
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefolletto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+-------------
   
-</div>
+
  
 
 
 
-<p>
+
   
   ## 🛠️ Tecnologias
 
