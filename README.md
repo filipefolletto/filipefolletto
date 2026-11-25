@@ -14,7 +14,6 @@ React, TypeScript, Java e arquitetura de software.
 
   <img 
     align="left" 
-    width ="20vh"
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
