@@ -8,18 +8,7 @@ aplicações web, APIs e sistemas escaláveis.
 Atualmente, estou aprofundando meus conhecimentos em
 React, TypeScript, Java e arquitetura de software.
 
----
-### 📊 Estatísticas
-
-
-  <img 
-    aling = "left"
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=filipefolletto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
+--------------
 <img 
       aling = "left"
       alt="GitHub Stats" 
@@ -27,17 +16,7 @@ React, TypeScript, Java e arquitetura de software.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefolletto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-
-
-  
 -------------
-  
-
- 
-
-
-
-
   
 ### Frontend
 <img 
@@ -82,31 +61,66 @@ React, TypeScript, Java e arquitetura de software.
 /><br>
 
 ### Backend
-Java | Node.js | REST APIs
+<img 
+    align="left" 
+    alt="JAVA"
+    title="JAVA" 
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<img 
+    align="left" 
+    alt="NODE"
+    title="NODE" 
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /><br>
 
 ### Banco de dados
-PostgreSQL | MySQL
+
+<img 
+    align="left" 
+    alt="POSTGRESQL"
+    title="POSTGRESQL" 
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+    
+<img 
+    align="left" 
+    alt="MYSQL"
+    title="MYSQL" 
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /><br>
+          
 
 ### Ferramentas
-Git | GitHub | Docker | VS Code
+<img 
+    align="left" 
+    alt="GIT"
+    title="GIT" 
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 
----
+<img 
+    align="left" 
+    alt="DOCKER"
+    title="DOCKER" 
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 
-## 📚 Atualmente estudando
+<img 
+    align="left" 
+    alt="VSCODE"
+    title="VSCODE" 
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+          
 
-- Arquitetura de software
-- Engenharia de APIs
-- Modelagem de dados
-- Testes automatizados
-- CI/CD
-
----
-
-## 📫 Contato
-
-[LinkedIn](LINK_LINKEDIN)
-[Email](mailto:SEU_EMAIL)
-</p>
 
 
 
